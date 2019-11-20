@@ -4,8 +4,16 @@
 https://drive.google.com/open?id=1eCwQBcTrdoKdNHK9G30voBgTElKgt9wq
 
 ## 包含内容
+主要包含以下信息：
+- 项目名
+- star数
+- fork数
+- watch数
+- 项目路径
+- 项目tag
+- 等其他信息
 
-实例数据（包含字段如 Json 所示）
+实例数据（详细字段如 Json 所示）
 ```
 {
 	"topic": "js",
@@ -28,7 +36,7 @@ https://drive.google.com/open?id=1eCwQBcTrdoKdNHK9G30voBgTElKgt9wq
 	"default_branch": "master",
 	"deployments_url": "https://api.github.com/repos/GoogleChrome/puppeteer/deployments",
 	"description": "Headless Chrome Node API",
-	"disabled": false,
+	"disbled": false,
 	"downloads_url": "https://api.github.com/repos/GoogleChrome/puppeteer/downloads",
 	"events_url": "https://api.github.com/repos/GoogleChrome/puppeteer/events",
 	"fork": false,
