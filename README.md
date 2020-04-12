@@ -1,17 +1,18 @@
-# OSS DataSet
+# GitHubDepDataSet
 
 ## 下载链接
 https://drive.google.com/open?id=1eCwQBcTrdoKdNHK9G30voBgTElKgt9wq
 
 ## 包含内容
-主要包含以下信息：
-- 项目名
-- star数
-- fork数
-- watch数
-- 项目路径
-- 项目tag
-- 等其他信息
+- depnd_data.zip 包含仓库的依赖配置文件以及README
+- mongodump 主要包含以下仓库属性信息：
+	- 项目名
+	- star数
+	- fork数
+	- watch数
+	- 项目路径
+	- 项目tag
+	- 等其他信息
 
 实例数据（详细字段如 Json 所示）
 ```
