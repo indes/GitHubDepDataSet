@@ -152,5 +152,5 @@ https://drive.google.com/open?id=1eCwQBcTrdoKdNHK9G30voBgTElKgt9wq
 ## 导入方法
 
 ```
-$ mongorestore --db oss_dataset --dir ./mongodump
+$ mongorestore --db GitHubDepDataSet --dir ./mongodump
 ```
